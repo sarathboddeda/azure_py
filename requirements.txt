@@ -1,0 +1,8 @@
+django
+pytz
+requests
+six
+sqlparse
+stevedore
+urllib3
+psycopg2
